@@ -1,14 +1,39 @@
 {
-    "posts": [
-        { "id": 1, "title": "Post 1" },
-        { "id": 2, "title": "Post 2" },
-        { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 },
-        { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-        "name": "typicode"
+    "home": {
+        "data": [
+
+        ]
+    },
+    "tags": {
+        "data": [
+            {
+                "key": "TEST1",
+                "doc_count": 10924
+            },
+            {
+                "key": "TEST2",
+                "doc_count": 8230
+            },
+            {
+                "key": "TEST3",
+                "doc_count": 5555
+            }
+        ]
+    },
+    "user": {
+        "data": [
+            {
+                "first_name": "alex",
+                "bio": "i'm live in bucheon",
+                "profile_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F08%2FWon_Bin_LG.jpg&imgrefurl=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%259B%2590%25EB%25B9%2588&tbnid=BIY0INHbyQYpeM&vet=12ahUKEwiTmLeBgN7qAhUFxGEKHVKZBsgQMygEegUIARDXAQ..i&docid=Li4_8b411Gd6jM&w=1800&h=1200&q=%EC%9B%90%EB%B9%88&ved=2ahUKEwiTmLeBgN7qAhUFxGEKHVKZBsgQMygEegUIARDXAQ",
+                "following_cnt": 1000
+            },
+            {
+                "first_name": "david",
+                "bio": "i'm 26 years old",
+                "profile_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpds.joins.com%2Fnews%2Fcomponent%2Fhtmlphoto_mmdata%2F201802%2F12%2Fhtm_20180212171850855730.jpg&imgrefurl=https%3A%2F%2Fnews.joins.com%2Farticle%2F22366648&tbnid=iCmqzwU-VrFwaM&vet=12ahUKEwjuovWrgN7qAhVIAIgKHXZ3CkIQMygDegUIARDZAQ..i&docid=AiuwJNFaP6Fd9M&w=600&h=840&q=%EA%B0%95%EB%8F%99%EC%9B%90&ved=2ahUKEwjuovWrgN7qAhVIAIgKHXZ3CkIQMygDegUIARDZAQ",
+                "following_cnt": 800
+            }
+        ]
     }
 }
