@@ -4,7 +4,7 @@
             {
                 "type": "posts",
                 "post_type": "POST",
-                "cards": "[{'card_type':'image','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"image","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 0,
                 "video_url": "",
@@ -18,7 +18,7 @@
             {
                 "type": "posts",
                 "post_type": "VIDEO",
-                "cards": "[{'card_type':'video','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"video","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 0,
                 "video_url": "https://www.youtube.com/embed/IEtrJ2566Jw",
@@ -32,7 +32,7 @@
             {
                 "type": "posts",
                 "post_type": "QUIZ",
-                "cards": "[{'card_type':'quiz','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"quiz","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 0,
                 "video_url": "",
@@ -46,7 +46,7 @@
             {
                 "type": "posts",
                 "post_type": "POLL",
-                "cards": "[{'card_type':'poll','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"poll","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 3,
                 "video_url": "",
@@ -72,7 +72,7 @@
             {
                 "type": "posts",
                 "post_type": "POST",
-                "cards": "[{'card_type':'image','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"image","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 0,
                 "video_url": "",
@@ -86,7 +86,7 @@
             {
                 "type": "posts",
                 "post_type": "VIDEO",
-                "cards": "[{'card_type':'video','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"video","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 0,
                 "video_url": "https://www.youtube.com/embed/IEtrJ2566Jw",
@@ -100,7 +100,7 @@
             {
                 "type": "posts",
                 "post_type": "QUIZ",
-                "cards": "[{'card_type':'quiz','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"quiz","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 0,
                 "video_url": "",
@@ -114,7 +114,7 @@
             {
                 "type": "posts",
                 "post_type": "POLL",
-                "cards": "[{'card_type':'poll','image_url':'https://someimageurl1'},{'card_type':'text','content_text':'blah blah'}]",
+                "cards": [{"card_type":"poll","image_url":"https://someimageurl1"},{"card_type":"text","content_text":"blah blah"}],
                 "title": "share doc post",
                 "poll_days": 3,
                 "video_url": "",
