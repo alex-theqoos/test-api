@@ -23,32 +23,6 @@
                 "poll_days": 0,
                 "post_type": "POST",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
-                "title": "Normal post title!",
-                "type": "posts",
-                "video_thumb_url": ""
-            },
-            {
-                "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
-                "created_at": "2020-07-26T02:47:35.000Z",
-                "first_name": "Taeuk",
-                "like_cnt": 0,
-                "poll_days": 0,
-                "post_type": "POST",
-                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
-                "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
-            },
-            {
-                "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
-                "created_at": "2020-07-26T02:47:35.000Z",
-                "first_name": "Taeuk",
-                "like_cnt": 0,
-                "poll_days": 0,
-                "post_type": "POST",
-                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "title": "share doc post",
                 "type": "posts",
                 "video_thumb_url": ""
@@ -59,14 +33,6 @@
                 "created_at": "2020-07-27T05:37:59.000Z",
                 "like_cnt": 0,
                 "title": "TIME Magazine Has Made Edits to The Controversial BTS Special Bookazine That Made ARMYs Angry",
-                "type": "docs"
-            },
-            {
-                "cp": "kstarlive",
-                "cp_image": null,
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "Fans Gush over Jaehyun's New Bright Pink Hair, Expect NCT's Comeback Soon",
                 "type": "docs"
             },
             {
@@ -168,13 +134,6 @@
                 "following_cnt": 0,
                 "id": "ogCeiYvTJ9NYN2qlxPlfz41Y20I3",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5e5c66149f29b314f6765ae8.gif"
-            },
-            {
-                "bio": "",
-                "first_name": "abc1",
-                "following_cnt": 0,
-                "id": "GNzcwvwAVSSKfCto59xx6ib0fwF3",
-                "profile_image": ""
             }
         ]
     }
