@@ -23,32 +23,6 @@
                 "poll_days": 0,
                 "post_type": "POST",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
-                "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
-            },
-            {
-                "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
-                "created_at": "2020-07-26T02:47:35.000Z",
-                "first_name": "Taeuk",
-                "like_cnt": 0,
-                "poll_days": 0,
-                "post_type": "POST",
-                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
-                "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
-            },
-            {
-                "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
-                "created_at": "2020-07-26T02:47:35.000Z",
-                "first_name": "Taeuk",
-                "like_cnt": 0,
-                "poll_days": 0,
-                "post_type": "POST",
-                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "title": "Normal post title!",
                 "type": "posts",
                 "video_thumb_url": ""
@@ -101,54 +75,6 @@
                 "created_at": "2020-07-27T05:37:59.000Z",
                 "like_cnt": 0,
                 "title": "Former Super Junior Member Kim Kibum Opens His Youtube Channel, Surprised Fans with His New Look",
-                "type": "docs"
-            },
-            {
-                "cp": "kstarlive",
-                "cp_image": null,
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "All Things We Know about BTS' Upcoming Releases So Far",
-                "type": "docs"
-            },
-            {
-                "cp": "nme",
-                "cp_image": null,
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "BTS announce they have a new single coming next month",
-                "type": "docs"
-            },
-            {
-                "cp": "pitchfork",
-                "cp_image": null,
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "BTS Releasing New Song Next Month",
-                "type": "docs"
-            },
-            {
-                "cp": "soompi",
-                "cp_image": null,
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "EXO’s Baekhyun, Red Velvet, Gallant, And More To Release Covers Of BoA For Her 20th Debut Anniversary",
-                "type": "docs"
-            },
-            {
-                "cp": "instagram",
-                "cp_image": "https://img.theqoos.com/instagram_v2.png",
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "🤭 #유진 #ユジン #IZONE #아이즈원 #アイズワン",
-                "type": "docs"
-            },
-            {
-                "cp": "tumblr",
-                "cp_image": "https://img.theqoos.com/tumblr_v2.png",
-                "created_at": "2020-07-27T05:37:59.000Z",
-                "like_cnt": 0,
-                "title": "",
                 "type": "docs"
             },
             {
@@ -228,20 +154,6 @@
                 "following_cnt": 0,
                 "id": "umrcTDI3jdQlcZjqgqqrmB7EQT82",
                 "profile_image": null
-            },
-            {
-                "bio": null,
-                "first_name": "abc4",
-                "following_cnt": 0,
-                "id": "OcfUWExz8dd7k47JRr5Ax2DRMlr2",
-                "profile_image": null
-            },
-            {
-                "bio": null,
-                "first_name": "apple william",
-                "following_cnt": 0,
-                "id": "YvifDCCllFYYJSD9o5uk4E8o1933",
-                "profile_image": ""
             },
             {
                 "bio": "Hi I'm Amy :)  I Love K-pop💜💜❤️❤️",
