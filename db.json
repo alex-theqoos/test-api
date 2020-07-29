@@ -3,6 +3,7 @@
         "data": [
             {
                 "apply_cnt": 0,
+                "view_cnt": 20,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
@@ -18,6 +19,7 @@
             },
             {
                 "apply_cnt": 0,
+                "view_cnt": 10,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
@@ -33,6 +35,7 @@
             },
             {
                 "apply_cnt": 0,
+                "view_cnt": 5,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
                 "first_name": "Taeuk",
@@ -48,13 +51,14 @@
             },
             {
                 "apply_cnt": 0,
+                "view_cnt": 5,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
                 "first_name": "",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
-                "author_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "artists": "BLACKPINK",
                 "cp": "kpopstarz",
                 "cp_image": "https://img.theqoos.com/youtube_v2.png",
@@ -63,13 +67,14 @@
             },
             {
                 "apply_cnt": 0,
+                "view_cnt": 3,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
                 "first_name": "Taeuk",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
-                "author_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "artists": "BLACKPINK",
                 "cp": "kpopstarz",
                 "cp_image": "https://img.theqoos.com/youtube_v2.png",
@@ -82,6 +87,7 @@
         "data": [
             {
                 "apply_cnt": 0,
+                "view_cnt": 3,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
@@ -97,6 +103,7 @@
             },
             {
                 "apply_cnt": 0,
+                "view_cnt": 3,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
@@ -112,13 +119,14 @@
             },
             {
                 "apply_cnt": 0,
+                "view_cnt": 3,
                 "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
                 "first_name": "Taeuk",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
-                "author_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "artists": "BLACKPINK",
                 "cp": "kpopstarz",
                 "cp_image": "https://img.theqoos.com/youtube_v2.png",
