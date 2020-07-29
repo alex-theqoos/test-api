@@ -3,52 +3,77 @@
         "data": [
             {
                 "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "",
+                "cp": "",
+                "cp_image": "",
                 "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
+                "type": "posts"
             },
             {
                 "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "",
+                "cp": "",
+                "cp_image": "",
                 "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
+                "type": "posts"
             },
             {
-                "cp": "kpopstarz",
-                "cp_image": null,
+                "apply_cnt": 0,
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
+                "first_name": "Taeuk",
                 "like_cnt": 0,
+                "poll_days": 0,
+                "post_type": "POST",
+                "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "",
+                "cp": "",
+                "cp_image": "",
                 "title": "TIME Magazine Has Made Edits to The Controversial BTS Special Bookazine That Made ARMYs Angry",
                 "type": "docs"
             },
             {
-                "cp": "kstarlive",
-                "cp_image": null,
+                "apply_cnt": 0,
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
+                "first_name": "",
                 "like_cnt": 0,
-                "title": "Former Super Junior Member Kim Kibum Opens His Youtube Channel, Surprised Fans with His New Look",
+                "poll_days": 0,
+                "post_type": "POST",
+                "author_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "BLACKPINK",
+                "cp": "kpopstarz",
+                "cp_image": "https://img.theqoos.com/youtube_v2.png",
+                "title": "TIME Magazine Has Made Edits to The Controversial BTS Special Bookazine That Made ARMYs Angry",
                 "type": "docs"
             },
             {
-                "cp": "tumblr",
-                "cp_image": "https://img.theqoos.com/tumblr_v2.png",
+                "apply_cnt": 0,
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-27T05:37:59.000Z",
+                "first_name": "Taeuk",
                 "like_cnt": 0,
-                "title": "Tonight at Love music, BTS is here! From Map of the Soul: 7 ~ The Journey ~ there will be a new video for \"Your Eyes Tell\" ...",
+                "poll_days": 0,
+                "post_type": "POST",
+                "author_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "BLACKPINK",
+                "cp": "kpopstarz",
+                "cp_image": "https://img.theqoos.com/youtube_v2.png",
+                "title": "TIME Magazine Has Made Edits to The Controversial BTS Special Bookazine That Made ARMYs Angry",
                 "type": "docs"
             }
         ]
@@ -57,49 +82,65 @@
         "data": [
             {
                 "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "",
+                "cp": "",
+                "cp_image": "",
                 "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
+                "type": "posts"
             },
             {
                 "apply_cnt": 0,
-                "cards": "[{\"card_type\":\"image\",\"image_url\":\"https://someimageurl1\"},{\"card_type\":\"text\",\"content_text\":\"blah blah\"}]",
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
                 "created_at": "2020-07-26T02:47:35.000Z",
                 "first_name": "Taeuk",
                 "like_cnt": 0,
                 "poll_days": 0,
                 "post_type": "POST",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "",
+                "cp": "",
+                "cp_image": "",
                 "title": "share doc post",
-                "type": "posts",
-                "video_thumb_url": ""
+                "type": "posts"
+            },
+            {
+                "apply_cnt": 0,
+                "main_img": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "created_at": "2020-07-27T05:37:59.000Z",
+                "first_name": "Taeuk",
+                "like_cnt": 0,
+                "poll_days": 0,
+                "post_type": "POST",
+                "author_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef555e79f29b37b242bacf3.jpg",
+                "artists": "BLACKPINK",
+                "cp": "kpopstarz",
+                "cp_image": "https://img.theqoos.com/youtube_v2.png",
+                "title": "TIME Magazine Has Made Edits to The Controversial BTS Special Bookazine That Made ARMYs Angry",
+                "type": "docs"
             }
         ]
     },
     "hashtag": {
         "data": [
             {
-                "@timestamp": "2020-07-25T10:58:04.636Z",
-                "@version": "1",
+                "id": 1,
                 "hashtag": "coffee",
                 "posts_cnt": 4
             },
             {
-                "@timestamp": "2020-07-25T10:58:04.636Z",
-                "@version": "1",
+                "id": 1,
                 "hashtag": "coffee",
                 "posts_cnt": 4
             },
             {
-                "@timestamp": "2020-07-25T10:58:04.636Z",
-                "@version": "1",
+                "id": 1,
                 "hashtag": "coffee",
                 "posts_cnt": 4
             }
@@ -111,28 +152,28 @@
                 "bio": "im alex",
                 "first_name": "alex",
                 "following_cnt": 10,
-                "id": "hyZy2EkiInMpy48NyLpmRuvjtL22",
+                "user_id": "hyZy2EkiInMpy48NyLpmRuvjtL22",
                 "profile_image": ""
             },
             {
                 "bio": null,
                 "first_name": "abc6",
                 "following_cnt": 0,
-                "id": "umrcTDI3jdQlcZjqgqqrmB7EQT82",
+                "user_id": "umrcTDI3jdQlcZjqgqqrmB7EQT82",
                 "profile_image": null
             },
             {
                 "bio": "Hi I'm Amy :)  I Love K-pop💜💜❤️❤️",
                 "first_name": "Amy",
                 "following_cnt": 0,
-                "id": "5ZlqJYrH2fhoAVVgbARZqA7nsBD3",
+                "user_id": "5ZlqJYrH2fhoAVVgbARZqA7nsBD3",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5ef340739f29b31390f348ae.gif"
             },
             {
                 "bio": null,
                 "first_name": "Amy",
                 "following_cnt": 0,
-                "id": "ogCeiYvTJ9NYN2qlxPlfz41Y20I3",
+                "user_id": "ogCeiYvTJ9NYN2qlxPlfz41Y20I3",
                 "profile_image": "https://theqoos.s3-us-west-1.amazonaws.com/profile/5e5c66149f29b314f6765ae8.gif"
             }
         ]
